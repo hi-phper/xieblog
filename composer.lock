@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "3217f890383b172e4ec806c0db67a9bd",
-    "content-hash": "bf56851428fc5981d889682bb15e3b4e",
+    "hash": "6735899009e64863d47eb1f91384d683",
+    "content-hash": "9eb4ace93e9b77b940b3a5437aa1afa5",
     "packages": [
         {
             "name": "jasongrimes/paginator",
