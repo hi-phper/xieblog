@@ -1,0 +1,21 @@
+{
+	"name": "xieblog",
+	"description": "PHP Markdown Blog",
+	"homepage": "https://github.com/hi-phper/xieblog",
+	"license": "GNU/GPL V2",    
+    "require": {
+        "mikecao/flight": "1.2.*",
+        "michelf/php-markdown": "1.4.1",
+        "jasongrimes/paginator": "~1.0"
+    }
+}{
+	"name": "xie-blog",
+	"description": "PHP Markdown Blog",
+	"homepage": "https://bitbucket.org/hiphper/xie",
+	"license": "GNU/GPL V2",    
+    "require": {
+        "mikecao/flight": "1.2.*",
+        "michelf/php-markdown": "1.4.1",
+        "jasongrimes/paginator": "~1.0"
+    }
+}

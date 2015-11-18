@@ -1,0 +1,8 @@
+{
+    "base_url" : "",
+    "title" : "xieblog",
+    "subtitle" : "写博客",
+    "description" : "一个使用Markdown文件的微型博客",
+    "per_page" : 2,
+    "template" : "default"
+}
