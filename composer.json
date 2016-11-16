@@ -4,8 +4,8 @@
 	"homepage": "https://github.com/hi-phper/xieblog",
 	"license": "GNU/GPL V2",    
     "require": {
-        "mikecao/flight": "1.2.*",
-        "michelf/php-markdown": "1.4.1",
+        "mikecao/flight": "1.3.*",
+        "michelf/php-markdown": "1.7.*",
         "jasongrimes/paginator": "~1.0"
     }
 }

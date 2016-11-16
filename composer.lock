@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "6735899009e64863d47eb1f91384d683",
-    "content-hash": "9eb4ace93e9b77b940b3a5437aa1afa5",
+    "hash": "934ed74fce35d2e8047e5c4ee9eccfa6",
+    "content-hash": "f9e898074d022473cc83eeefc8acd0dc",
     "packages": [
         {
             "name": "jasongrimes/paginator",
@@ -54,16 +54,16 @@
         },
         {
             "name": "michelf/php-markdown",
-            "version": "1.4.1",
+            "version": "1.7.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/michelf/php-markdown.git",
-                "reference": "de9a19c7bf352d41cc99ed86c3c0ef17e87394b6"
+                "reference": "1f51cc520948f66cd2af8cbc45a5ee175e774220"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://packagist.phpcomposer.com/files/michelf/php-markdown/de9a19c7bf352d41cc99ed86c3c0ef17e87394b6.zip",
-                "reference": "de9a19c7bf352d41cc99ed86c3c0ef17e87394b6",
+                "url": "https://packagist.phpcomposer.com/files/michelf/php-markdown/1f51cc520948f66cd2af8cbc45a5ee175e774220.zip",
+                "reference": "1f51cc520948f66cd2af8cbc45a5ee175e774220",
                 "shasum": ""
             },
             "require": {
@@ -88,33 +88,33 @@
                 {
                     "name": "Michel Fortin",
                     "email": "michel.fortin@michelf.ca",
-                    "homepage": "http://michelf.ca/",
+                    "homepage": "https://michelf.ca/",
                     "role": "Developer"
                 },
                 {
                     "name": "John Gruber",
-                    "homepage": "http://daringfireball.net/"
+                    "homepage": "https://daringfireball.net/"
                 }
             ],
             "description": "PHP Markdown",
-            "homepage": "http://michelf.ca/projects/php-markdown/",
+            "homepage": "https://michelf.ca/projects/php-markdown/",
             "keywords": [
                 "markdown"
             ],
-            "time": "2014-05-05 02:43:50"
+            "time": "2016-10-29 18:58:20"
         },
         {
             "name": "mikecao/flight",
-            "version": "v1.2.22",
+            "version": "v1.3.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mikecao/flight.git",
-                "reference": "b30d5e5fa2de08c3e91c1165ee226fd83f29ba9b"
+                "reference": "c3c6f689099937e6e4ecf25b7fe8c780df1500f9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://packagist.phpcomposer.com/files/mikecao/flight/b30d5e5fa2de08c3e91c1165ee226fd83f29ba9b.zip",
-                "reference": "b30d5e5fa2de08c3e91c1165ee226fd83f29ba9b",
+                "url": "https://packagist.phpcomposer.com/files/mikecao/flight/c3c6f689099937e6e4ecf25b7fe8c780df1500f9.zip",
+                "reference": "c3c6f689099937e6e4ecf25b7fe8c780df1500f9",
                 "shasum": ""
             },
             "require": {
@@ -144,7 +144,7 @@
             ],
             "description": "Flight is a fast, simple, extensible framework for PHP. Flight enables you to quickly and easily build RESTful web applications.",
             "homepage": "http://flightphp.com",
-            "time": "2016-10-12 18:49:00"
+            "time": "2016-10-25 19:27:20"
         }
     ],
     "packages-dev": [],
