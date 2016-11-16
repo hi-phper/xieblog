@@ -17,7 +17,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jasongrimes/php-paginator/zipball/8b18245b8a9dbdf69918ebd1e1f4a229a06030cd",
+                "url": "https://packagist.phpcomposer.com/files/jasongrimes/php-paginator/8b18245b8a9dbdf69918ebd1e1f4a229a06030cd.zip",
                 "reference": "8b18245b8a9dbdf69918ebd1e1f4a229a06030cd",
                 "shasum": ""
             },
@@ -62,7 +62,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/michelf/php-markdown/zipball/de9a19c7bf352d41cc99ed86c3c0ef17e87394b6",
+                "url": "https://packagist.phpcomposer.com/files/michelf/php-markdown/de9a19c7bf352d41cc99ed86c3c0ef17e87394b6.zip",
                 "reference": "de9a19c7bf352d41cc99ed86c3c0ef17e87394b6",
                 "shasum": ""
             },
@@ -105,16 +105,16 @@
         },
         {
             "name": "mikecao/flight",
-            "version": "v1.2.20",
+            "version": "v1.2.22",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mikecao/flight.git",
-                "reference": "f3fa0513fe2e1994923793b85c593b7f2b644001"
+                "reference": "b30d5e5fa2de08c3e91c1165ee226fd83f29ba9b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mikecao/flight/zipball/f3fa0513fe2e1994923793b85c593b7f2b644001",
-                "reference": "f3fa0513fe2e1994923793b85c593b7f2b644001",
+                "url": "https://packagist.phpcomposer.com/files/mikecao/flight/b30d5e5fa2de08c3e91c1165ee226fd83f29ba9b.zip",
+                "reference": "b30d5e5fa2de08c3e91c1165ee226fd83f29ba9b",
                 "shasum": ""
             },
             "require": {
@@ -144,7 +144,7 @@
             ],
             "description": "Flight is a fast, simple, extensible framework for PHP. Flight enables you to quickly and easily build RESTful web applications.",
             "homepage": "http://flightphp.com",
-            "time": "2016-02-29 08:38:10"
+            "time": "2016-10-12 18:49:00"
         }
     ],
     "packages-dev": [],
