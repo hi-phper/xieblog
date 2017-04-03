@@ -61,11 +61,5 @@ $assets = $config->get('base_url') . 'templates/' . $config->get('template') . '
       </p>
     </footer>
 
-
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="<?php echo $assets; ?>/js/jquery-2.1.3.min.js"></script>
-    <script src="<?php echo $assets; ?>/js/bootstrap.min.js"></script>
   </body>
 </html>

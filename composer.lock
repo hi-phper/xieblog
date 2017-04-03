@@ -4,7 +4,6 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "934ed74fce35d2e8047e5c4ee9eccfa6",
     "content-hash": "f9e898074d022473cc83eeefc8acd0dc",
     "packages": [
         {
@@ -50,7 +49,7 @@
                 "pagination",
                 "paginator"
             ],
-            "time": "2015-10-15 09:42:44"
+            "time": "2015-10-15T09:42:44+00:00"
         },
         {
             "name": "michelf/php-markdown",
@@ -101,7 +100,7 @@
             "keywords": [
                 "markdown"
             ],
-            "time": "2016-10-29 18:58:20"
+            "time": "2016-10-29T18:58:20+00:00"
         },
         {
             "name": "mikecao/flight",
@@ -144,7 +143,7 @@
             ],
             "description": "Flight is a fast, simple, extensible framework for PHP. Flight enables you to quickly and easily build RESTful web applications.",
             "homepage": "http://flightphp.com",
-            "time": "2016-10-25 19:27:20"
+            "time": "2016-10-25T19:27:20+00:00"
         }
     ],
     "packages-dev": [],
