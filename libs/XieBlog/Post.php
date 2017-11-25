@@ -6,6 +6,8 @@
  * @link https://github.com/hi-phper/xieblog
  */
 
+namespace HiPhper\XieBlog;
+
 use \Michelf\Markdown;
 
 class Post
@@ -36,7 +38,7 @@ class Post
 	
 	public function getPost($name)
 	{
-		$post = new stdClass();
+		$post = new \stdClass();
 		$post->url = str_replace('.md', '', $name);
 		
 		$content = file_get_contents($name);

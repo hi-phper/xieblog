@@ -21,7 +21,7 @@ $assets = $config->get('base_url') . 'templates/' . $config->get('template') . '
     <title><?php echo $config->get('title'); ?> - <?php echo $config->get('subtitle'); ?></title>
 
     <!-- Bootstrap core CSS -->
-    <link href="<?php echo $assets; ?>/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
     <!-- Custom styles for this template -->
     <link href="<?php echo $assets; ?>/css/blog.css" rel="stylesheet">

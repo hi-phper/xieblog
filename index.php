@@ -7,9 +7,11 @@
  */
 
 require 'vendor/autoload.php';
-require 'libs/Config.php';
-require 'libs/Post.php';
+#require 'libs/Config.php';
+#require 'libs/Post.php';
 
+use HiPhper\XieBlog\Config;
+use HiPhper\XieBlog\Post;
 use JasonGrimes\Paginator;
 
 $config = new Config('config.json');

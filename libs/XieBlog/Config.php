@@ -6,6 +6,8 @@
  * @link https://github.com/hi-phper/xieblog
  */
 
+namespace HiPhper\XieBlog;
+
 class Config
 {
     private $entries;
