@@ -7,8 +7,6 @@
  */
 
 require 'vendor/autoload.php';
-#require 'libs/Config.php';
-#require 'libs/Post.php';
 
 use HiPhper\XieBlog\Config;
 use HiPhper\XieBlog\Post;
